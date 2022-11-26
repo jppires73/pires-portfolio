@@ -1,0 +1,5 @@
+body {background-color: black; color: rgb(0%, 100%, 0%);font-family: 'Press Start 2P', cursive;}
+::selection{
+    color: black;
+    background: white;
+}

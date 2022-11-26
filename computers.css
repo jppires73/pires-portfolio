@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+body {background-color: black; color: rgb(0%, 100%, 0%);font-family: 'Press Start 2P', cursive;}
+::selection{
+    color: white;
+    background: black;
